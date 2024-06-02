@@ -1,6 +1,4 @@
-*-*-*-*
-我以负责任的态度考虑项目的功能和架构，但并不能保证总是有充沛的时间持续地更新或维护。分支这个项目不需要向我说明，我会以开放的心态倾听意见，但仍然坚持我的批判性思考和偏好。
-*-*-*-*
+**我以负责任的态度考虑项目的功能和架构，但并不能保证总是有充沛的时间持续地更新或维护。分支这个项目不需要向我说明，我会以开放的心态倾听意见，但仍然坚持我的批判性思考和偏好。**
 
 TestWM
 =======
@@ -29,6 +27,6 @@ TestWM
 截图
 ----
 
-![](article/A.png)
-![](article/A.png)
-![](article/A.png)
+![A](https://github.com/ltaoist/testwm/assets/1416332/81144572-344f-44e4-a431-b408b6e69ab0)
+![B](https://github.com/ltaoist/testwm/assets/1416332/e4e84868-ae03-4ffc-b284-7a0eaaa108bb)
+![C](https://github.com/ltaoist/testwm/assets/1416332/f596b2cf-6c2b-4ba6-bd5b-1cf85c7def2d)
