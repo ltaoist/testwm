@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=testwm
+TryExec=lxqt-session
+DesktopNames=testwm
+Name=testwm
